@@ -11,12 +11,12 @@
 /////////Primitive ga kiradigon data typelar /
 
 //Number,- bunga raqamlar va NaN  kiradi , Nan bu raqamligini anglatib turadi
-//bigint,- bu true ,yoki false qiymat qaytaradi TRUE bu bor degani , falase bu yoq degan manoni anglatadi
+//bigint,-katta raqamlar kiradi 323232323432321323434331312 n   + 1  n qilib yoziladi bunga yana raqam qoshmohchi bolsak 
 //string,  "" '' `` shu belgilar srtinga kiradi
-//bolean,  katta raqamlar kiradi 323232323432321323434331312 n   + 1  n qilib yoziladi bunga yana raqam qoshmohchi bolsak
+//bolean,  bu true ,yoki false qiymat qaytaradi TRUE bu bor degani , falase bu yoq degan manoni anglatadi
 //Null, yoqlik qiymatga ega hech nima yoq degani
 //Undefiend, buham yoqlik degan qiymatga oxhshash narsa
-//Sumbols
+//Sumbols - bu bizga yunik ID yasab beradi 
 
 /////////NuN primitive//////////////
 
